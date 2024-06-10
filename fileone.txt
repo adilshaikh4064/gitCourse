@@ -1,3 +1,5 @@
 this is first file.
 adding content to the file.
 its my content to do a lot with git commands.
+
+# i got to know a lot about what the git software is and how it operates.
